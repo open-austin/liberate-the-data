@@ -1,8 +1,8 @@
 # Liberate the Data
 Collecting datasets the community would like to see published in a machine readable format.
 
-#### [:sun_with_face: Datasets we would like to see liberated :sun_with_face:](https://github.com/open-austin/project-ideas/issues)
-#### [:star2: Request a dataset :star2:](https://github.com/open-austin/project-ideas/issues/new)
+#### [:sun_with_face: Datasets we would like to see liberated :sun_with_face:](https://github.com/open-austin/liberate-the-data/issues)
+#### [:star2: Request a dataset :star2:](https://github.com/open-austin/liberate-the-data/issues/new)
 
 ### Template for New Dataset Ideas
 
